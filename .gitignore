@@ -3,3 +3,6 @@
 
 # Build output
 target/
+
+# Local application configuration
+config.properties
